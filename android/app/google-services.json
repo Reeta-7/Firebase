@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965263403544",
+    "firebase_url": "https://azaan-d6bae-default-rtdb.firebaseio.com",
+    "project_id": "azaan-d6bae",
+    "storage_bucket": "azaan-d6bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965263403544:android:ffa86ba0e8fdcbe824f16d",
+        "android_client_info": {
+          "package_name": "com.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965263403544-v88o55vfrivfecmle2292varjd259f8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebaseapp",
+            "certificate_hash": "0215592fe02e61d89f4103d29ff8cecc4b37d2e0"
+          }
+        },
+        {
+          "client_id": "965263403544-0577at9dhus5qgq8akeisphhltr6ch9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzFTZ7VxJL38OFozbRvqHmL5k0luASuwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965263403544-0577at9dhus5qgq8akeisphhltr6ch9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
